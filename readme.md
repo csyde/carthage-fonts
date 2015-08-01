@@ -7,7 +7,7 @@ This release covers the ISO Latin-1 character set plus a couple of minor charact
 
 The name is a complicated pun on "Newton" and is probably not worth trying to explain, but it has to do with the Punic name for Carthage (Qart Hadasht) meaning "new city". (I could perhaps just as easily called it Naples or Novgorod. If this paragraph shows up on r/iamverysmart... I won't be too surprised.) I don't *think* Apple has a problem with Espy clones, although I can't guarantee it. 
 
-This package includes Carthage Sans in regular and oblique styles. Bold will follow at some point. SFD files are available for those who wish to tinker in FontForge. License conditions are in license.txt, but basically you can pick between CC-BY-SA or SIL OFL. 
+This package includes Carthage Sans in regular and oblique styles. Bold will follow at some point. SFD files are available for those who wish to tinker in FontForge, as are specimens of the Latin-1 character sets (from OS X Font Book on a retina screen). License conditions are in license.txt, but basically you can pick between CC-BY-SA or SIL OFL. 
 
 Brian Connors
 connorbd@yahoo.com
