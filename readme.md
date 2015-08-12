@@ -3,11 +3,11 @@ Carthage Sans README
 
 Carthage Sans is a reimagining of Apple's Espy Sans 12 bitmap font. It is *not* a copy of Martin Pfeiffer's Nu Sans font, although it is inspired by it. It probably looks better at smaller point sizes, as some of the jaggier bits required to make it look like the bitmap font are a little too obvious when enlarged. 
 
-This release covers the ISO Latin-1 character set plus a couple of minor characters outside of it (particularly the long ƒ, for those of you who still use that convention for your folders). There will be a bold version and possibly a separate "LKE" version (Latina, Kirilitsa, Elleniki) with Cyrillic, Greek, and possibly Hebrew characters. I've not yet decided on doing a Carthage Serif, but it's possible, if I don't get distracted with other projects. 
+This release covers the ISO Latin-1 character set plus a couple of minor characters outside of it (particularly the long ƒ, for those of you who still use that convention for your folders). There will be possibly a separate "LKE" version (Latina, Kirilitsa, Elleniki) with Cyrillic, Greek, and possibly Hebrew characters. Also, I find the pixel-accurate bold to be *too* bold; a semibold is a possibility. I've not yet decided on doing a Carthage Serif, but it's possible, if I don't get distracted with other projects. 
 
 The name is a complicated pun on "Newton" and is probably not worth trying to explain, but it has to do with the Punic name for Carthage (Qart Hadasht) meaning "new city". (I could perhaps just as easily called it Naples or Novgorod. If this paragraph shows up on r/iamverysmart... I won't be too surprised.) I don't *think* Apple has a problem with Espy clones, although I can't guarantee it. 
 
-This package includes Carthage Sans in regular and oblique styles. Bold will follow at some point. SFD files are available for those who wish to tinker in FontForge, as are specimens of the Latin-1 character sets (from OS X Font Book on a retina screen). License conditions are in license.txt, but basically you can pick between CC-BY-SA or SIL OFL. 
+This package includes Carthage Sans in regular and oblique styles, in standard and bold (really ultrabold) weights. SFD files are available for those who wish to tinker in FontForge, as are specimens of the Latin-1 character sets (from OS X Font Book on a retina screen). License conditions are in license.txt, but basically you can pick between CC-BY-SA or SIL OFL. 
 
 Brian Connors
 connorbd@yahoo.com
