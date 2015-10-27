@@ -1,3 +1,6 @@
+Development notes
+=================
+
 This document contains various random bits of information that may be of some interest to the user and/or hacker.
 
 * FontStruct generates slightly wonky TrueType code for some characters, so if you generate a font from its SFD file, FontForge is liable to complain about it. It should work fine if you just ignore the errors, but let me know if you find otherwise.
@@ -5,3 +8,8 @@ This document contains various random bits of information that may be of some in
 * The line segments making up the outlines will be very obvious at large point sizes. This will require extensive tweaking in FontForge and I'm just not sure I care all that much.
 * For German speakers: The choice of a Fraktur-inspired shape for the upper case Eszett glyph is entirely arbitrary and somewhat rooted in the fact that there wasn't an obvious way to distinguish it from a lower-case Eszett or a capital B. If this is a problem, let me know and I'll see what I can do.
 * For Cyrillic users (when the LKE version shows up here): I do not wish to get involved in the Russian vs Serbian italics issue. I therefore do not plan on making a full italic version of Carthage Sans LKE (or Carthage Serif, should I get around to it); you'll get the oblique version, and you will like it. Please write all complaints in either Serbian or Russian, as I can read neither and it will make it easier for me to ignore them.
+
+Major change log
+----------------
+
+20151026: Learned some new techniques in Fontstruct, and thereby cleared up some annoying font geometry issues (most notably the pixel-accurate but hideous upper case W). 
