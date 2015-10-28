@@ -15,8 +15,8 @@ connorbd@yahoo.com
 A few credits
 -------------
 
--Keith Martin (@thatkeith on Twitter) for creating the Espy Sans Revived fonts (http://thisbloglife.com/downloads/). Although Carthage Sans is entirely my own work, I used Martin's work as a template for the basic shape of the letters. 
--Greg Landweber and Ed Voas, for the Aaron system extension so many years ago that brought Espy Sans to many Mac users who couldn't wait for Mac OS 8 and Charcoal. 
+* Keith Martin (@thatkeith on Twitter) for creating the Espy Sans Revived fonts (http://thisbloglife.com/downloads/). Although Carthage Sans is entirely my own work, I used Martin's work as a template for the basic shape of the letters. 
+* Greg Landweber and Ed Voas, for the Aaron system extension so many years ago that brought Espy Sans to many Mac users who couldn't wait for Mac OS 8 and Charcoal. 
 
 FontStruct made me add this boilerplate
 ---------------------------------------
