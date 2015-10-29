@@ -18,7 +18,7 @@ Carthage Sans LKE is an expanded Unicode version. It aims to cover as much as po
 
 The current status as of 10/28/2015 (the date of initial publication): 
 
-* Latin: all of Latin-1, Latin Extended-A, and "Even More Latin"; Latin Extended-B is missing some characters that seem to be mostly either phonetic notation or obsolete.
+* Latin: all of Latin-1, Latin Extended-A, and "Even More Latin"; Latin Extended-B is missing some characters, mainly either obsolete (particularly the Zhuang tone letters), esoteric (the African reference alphabet, which will be completed eventually), or phonetic (for which you should use an IPA font constructed by a professional linguist, not something made by some rando on FontStruct; Gentium Plus from SIL.org is a good choice for cross-platform use). 
 * Greek: All Greek characters supported by FontStruct; if you need letters like heta or Pamphylian digamma, those will probably be added to the GitHub version. FontStruct does not provide polytonic Greek support, so that too will be added later. Coptic letters are not supported; I don't see a lot of need for them but they won't be a problem to add on request.
 * Cyrillic: Still a work in progress, but all Slavic languages using Cyrillic characters should be covered. The main holdup is Abkhazian, which is spoken by just over 110,000 people in the world and also has one of the longest alphabets in the world; I have no idea how many of them would be interested in this, so it hasn't been a huge priority. (Besides, the PT family from Russia's Paratype is excellent and far better than I could do with most Cyrillized languages.) 
 
