@@ -27,6 +27,6 @@ I've emphasized support for several languages, the most important being Vietname
 
 Major change log
 ----------------
-
+* 20151230: Added some ancient Greek characters on user request that don't appear on FontStruct
 * 20151028: Finally enough of the LKE version is finished to upload to GitHub
 * 20151026: Learned some new techniques in Fontstruct, and thereby cleared up some annoying font geometry issues (most notably the pixel-accurate but hideous upper case W). 
