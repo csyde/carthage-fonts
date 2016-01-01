@@ -19,14 +19,15 @@ Carthage Sans LKE is an expanded Unicode version. It aims to cover as much as po
 
 The current status as of 30 Dec 2015: 
 
-* Latin: all of Latin-1, Latin Extended-A, and "Even More Latin"; Latin Extended-B is missing some characters, mainly either obsolete (particularly the Zhuang tone letters), esoteric (the African reference alphabet, which will be completed eventually), or phonetic (for which you should use an IPA font constructed by a professional linguist, not something made by some rando on FontStruct; Gentium Plus from SIL.org is a good choice for cross-platform use). 
-* Greek: All Greek characters supported by FontStruct. This version (the GitHub version, that is) now includes the ancient dialect characters Heta, Pamphylian Digamma, and t-shaped Sampi; polytonic will appear there as well, if anyone asks for it. Coptic letters are not supported; I don't see a lot of need for them but they won't be a problem to add on request.
+* Latin: all of Latin-1, Latin Extended-A, and "Even More Latin"; Latin Extended-B is missing some characters, mainly either obsolete (particularly the Zhuang tone letters), esoteric (the African reference alphabet, which will be completed eventually), or phonetic (for which you should use an IPA font constructed by a professional linguist, not something made by some rando on FontStruct; Gentium Plus from SIL.org is a good choice for cross-platform use). I have attempted to cover all the Vietnamese characters, although diacritic readability might be a little dodgy because of the limitations of using a bitmap font as the template.
+* Greek: All Greek characters supported by FontStruct. This version (the GitHub version, that is) now includes the ancient dialect characters Heta, Pamphylian Digamma, and t-shaped Sampi; polytonic will appear there as well, if anyone asks for it. Partial Coptic support was added 1/1/16, although following the Espy Sans design rather than the traditional Byzantine-Egyptian letter style. 
 * Cyrillic: Still a work in progress, but all Slavic languages using Cyrillic characters should be covered. The main holdup is Abkhazian, which is spoken by just over 110,000 people in the world and also has one of the longest alphabets in the world; I have no idea how many of them would be interested in this, so it hasn't been a huge priority. (Besides, the PT family from Russia's Paratype is excellent and far better than I could do with most Cyrillized languages.) Glagolitic support is a distant possibility, but it doesn't seem like Slavicists use it a great deal. 
 
 I've emphasized support for several languages, the most important being Vietnamese (75 million speakers deserve some support no matter how tedious it is to do so). I've also added characters for Old Irish, Old Church Slavonic, and Icelandic. There's a number of characters used in pan-African linguistics I am not sure if I need or not; they'll get filled in eventually alongside the Cyrillic, but how fast I have no idea. 
 
 Major change log
 ----------------
+* 20160101: Added basic Coptic support on user request
 * 20151230: Added some ancient Greek characters on user request that don't appear on FontStruct
 * 20151028: Finally enough of the LKE version is finished to upload to GitHub
 * 20151026: Learned some new techniques in Fontstruct, and thereby cleared up some annoying font geometry issues (most notably the pixel-accurate but hideous upper case W). 
